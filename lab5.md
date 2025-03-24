@@ -11,11 +11,11 @@ ps -efaux
 
 ps -e --forest
 
-ps -u ananya
+ps -u bhawna
 
 top
 
-top -u ananya
+top -u bhawna
 
 top -o % MEM
 
@@ -48,4 +48,10 @@ sudo apt-get clean
 ![image](https://github.com/user-attachments/assets/55ce617e-5d99-4879-bf33-ada0ea63fc9e)
 
 ![image](https://github.com/user-attachments/assets/fded205a-a4ca-41b1-9bd1-fcb1d6587b5f)
+
+![image](https://github.com/user-attachments/assets/634921b1-47e3-4274-a60c-b067e8c5efc8)
+
+![image](https://github.com/user-attachments/assets/a8bd95a5-a8c8-40c2-bf8e-68eeccca7624)
+
+![image](https://github.com/user-attachments/assets/ecdb5217-5624-447f-bc84-6db777cca36c)
 
